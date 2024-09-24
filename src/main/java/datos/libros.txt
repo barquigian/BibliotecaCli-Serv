@@ -1,0 +1,10 @@
+Cien años de soledad:Gabriel García Márquez:Realismo mágico:true
+Don Quijote de la Mancha:Miguel de Cervantes:Novela:true
+1984:George Orwell:Ciencia ficción distópica:true
+El Principito:Antoine de Saint-Exupéry:Ficción filosófica:true
+La Odisea:Homero:Poesía épica:true
+Crimen y castigo:Fiódor Dostoyevski:Novela psicológica:true
+Orgullo y prejuicio:Jane Austen:Romance:true
+El nombre de la rosa:Umberto Eco:Novela histórica:true
+El señor de los anillos:J.R.R. Tolkien:Fantasía épica:true
+Matar a un ruiseñor:Harper Lee:Ficción histórica:true
